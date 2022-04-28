@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/ic_chat"
+        android:iconTint="@color/white"/>
+    <item
+        android:id="@+id/navigation_location"
+        android:icon="@drawable/ic_pin"/>
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_camera"-->
+<!--        android:icon="@drawable/ic_photo_camera"/>-->
+
+    <item
+        android:id="@+id/navigation_connect"
+        android:icon="@drawable/ic_friends"/>
+
+    <item
+        android:id="@+id/navigation_my_profile"
+        android:icon="@drawable/ic_user"
+        android:iconTint="@color/white"/>
+</menu>

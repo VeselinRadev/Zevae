@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958171573474",
+    "firebase_url": "https://zevae-f4156.firebaseio.com",
+    "project_id": "zevae-f4156",
+    "storage_bucket": "zevae-f4156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958171573474:android:2c1d8a48b353751c3ec2bb",
+        "android_client_info": {
+          "package_name": "com.veselin.zevae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958171573474-cfokit9d2a8v4hnfjlb6ms2hdb56ujdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veselin.zevae",
+            "certificate_hash": "6b76b7eb5167a611e5b2e384b5231bdb8ffa6aa0"
+          }
+        },
+        {
+          "client_id": "958171573474-83ktfgqd91tae9n6l6fvdd9afg6e0gke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkOxzUXrfw8A23HlIt38hAoLnE39cTcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958171573474-83ktfgqd91tae9n6l6fvdd9afg6e0gke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
